@@ -12,7 +12,7 @@ After that, a Whatsapp message will be generated and will be sent to the receive
 
 ## Example
 
-![App Screenshot](https://via.placeholder.com/468x300?text=.gitignore/eg.jpg/)
+![App Screenshot](eg.jpg/?text=Example)
 
 
 
