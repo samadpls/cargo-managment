@@ -11,8 +11,7 @@ After that, a Whatsapp message will be generated and will be sent to the receive
 
 
 ## Example
-
-![App Screenshot](eg.jpg)
+<img src='eg.jpg' height=500>
 
 
 
