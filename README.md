@@ -11,7 +11,7 @@ After that, a Whatsapp message will be generated and will be sent to the receive
 
 
 ## Example
-<img src='eg.jpg' height=500>
+<img src='cargo/eg.jpg' height=500>
 
 
 
