@@ -1,8 +1,3 @@
-
-## Hi, I'm AbdulSamad! 🤍
-I am Data Analyst in Python
-
-
 # Cargo Managment System
 
 
